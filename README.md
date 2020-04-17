@@ -1,6 +1,6 @@
 # Random-API
 
-A pet project to understand how to build APIs using NodeJS
+A pet project to understand how to build APIs using NodeJS by implementing the Thinkster's realworld.io API
 
 ## MySQL Instructions 
 
