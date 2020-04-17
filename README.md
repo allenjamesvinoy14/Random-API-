@@ -2,12 +2,14 @@
 
 A pet project to understand how to build APIs using NodeJS
 
+#Instructions
 
-''' mysql -u root '''
+``` mysql -u root ```
 
-'''
-    create database <name>;
-    create user <user> with password '<password>';
-    grant all privileges on <name>.* to <user>;
-    flush privileges;
-'''
+```
+create database <name>;
+create user <user> with password '<password>';
+grant all privileges on <name>.* to <user>;
+flush privileges;
+
+```
