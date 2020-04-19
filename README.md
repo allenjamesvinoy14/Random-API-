@@ -17,5 +17,5 @@ flush privileges;
 ## Constants
 
 ``` 
-Constants such as SECRET has to be defined seperately by the user in constants.js file
+Constants such as SECRET has to be defined seperately by the user in constants.js(ignored in this repository) file
 ```
