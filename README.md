@@ -13,3 +13,9 @@ grant all privileges on <name>.* to <user>;
 flush privileges;
 
 ```
+
+## Constants
+
+``` 
+Constants such as SECRET has to be defined seperately by the user in constants.js file
+```
